@@ -47,7 +47,7 @@ much of it is broken, like code blocks
 + [longshen](http://www.longshen.com.tw/eng_index.asp) *baller taiwanese lugs*
 + [Henry James](http://www.henryjames.com/) *lugs and some other stuff*
 + [Ceeway Framebuilding](http://www.framebuilding.com/index.htm) *European framebuilding supplier*
-+ [Suppliers List](http://www.phred.org/~josh/build/suppliers.html)
++ [Suppliers List](http://www.phred.org/~josh/build/suppliers.html) *seems decent, but mostly physical shops*
 + [Framebuilding Supplies List BikeForums](http://www.bikeforums.net/framebuilders/775610-framebuilding-suppliers.html) *not great*
 
 ###Misc
